@@ -3,7 +3,15 @@
 <img src="https://media0.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=ecf05e4700uhlsjujz6re6dfzipz2j5sjiny4gqeedq2s1yj&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="720" height="300"/>
 
 # 💫 About Me:
-🍯Salut je suis kerryl, Developpeur fullstack junior<br>🔱je suis pationnée par le developpement, j'apprend en autodidacte<br>📍Mon objectif c'est de crée un gros projet web et étre expert en JS et en c/c++  <br>©️ https://discord.gg/EAP6dBycKw : discord de la communauté Cyberkey<br>
+🍯Salut je suis kerryl, Developpeur fullstack junior<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet web et étre expert en Javascript <br>
+📞 
+Je suis actuellement à la recherche d'une formation approfondie ou d'une opportunité d'alternance qui me permettra de perfectionner encore davantage mes compétences et d'explorer de nouvelles dimensions du développement web. Je suis conscient des défis de la recherche d'une alternance en tant que personne en reconversion, mais je suis déterminé à surmonter ces obstacles. Si vous avez des conseils, des recommandations ou des opportunités à partager, n'hésitez pas à me contacter. Je suis ouvert à la conversation et à l'apprentissage continu.
+
+🌐En dehors du monde de la programmation, je suis passionné par les nouveaux techniques, la meta verse, les ordinateurs quantiques, les intelligences artificielles. Ces passions m'apportent une perspective unique dans mon travail quotidien.
+
+🚀 Mon aventure en tant que développeur web autodidacte m'a enseigné que chaque ligne de code est une opportunité de création. Je suis prêt à apporter mon énergie, ma créativité et mon savoir-faire à un projet web qui repousse les limites.
+
+Rejoignez-moi dans cette aventure continue de développement et d'innovation. Ensemble, nous pouvons coder un avenir brillant, même en surmontant les défis d'une reconversion en 2023 à l'âge de 21 ans.
 
 
 ## 🌐 Socials:
