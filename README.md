@@ -3,11 +3,11 @@
 <img src="https://media0.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=ecf05e4700uhlsjujz6re6dfzipz2j5sjiny4gqeedq2s1yj&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="720" height="300"/>
 
 # 💫 About Me:
-🍯Salut je suis kerryl, Developpeur fullstack junior<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet web et étre expert en Javascript <br>
+🍯Salut je suis kerryl, Developpeur fullstack junior<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet et étre expert en c++ et javascript <br>
 📞 
-Je suis actuellement à la recherche d'une formation approfondie ou d'une opportunité d'alternance qui me permettra de perfectionner encore davantage mes compétences et d'explorer de nouvelles dimensions du développement web. Je suis conscient des défis de la recherche d'une alternance en tant que personne en reconversion, mais je suis déterminé à surmonter ces obstacles. Si vous avez des conseils, des recommandations ou des opportunités à partager, n'hésitez pas à me contacter. Je suis ouvert à la conversation et à l'apprentissage continu.
+Actuellement inscrit à l'école 42, je suis en quête d'opportunités pratiques pour approfondir mes compétences en développement de projets web et de jeux vidéo. Mon objectif est de mettre en pratique les connaissances acquises et d'explorer de nouvelles dimensions dans ces domaines captivants. Conscient des défis associés à cette démarche, surtout en tant que personne cherchant à se perfectionner dans ces secteurs spécifiques, ma détermination demeure intacte. Si vous avez des conseils, des recommandations ou des opportunités pratiques à partager, je serais ravi d'échanger avec vous. Je reste ouvert à toute discussion constructive et à une expérience d'apprentissage enrichissante.
 
-🌐En dehors du monde de la programmation, je suis passionné par les nouveaux techniques, la meta verse, les ordinateurs quantiques, les intelligences artificielles. Ces passions m'apportent une perspective unique dans mon travail quotidien.
+🌐En dehors du monde de la programmation, je suis passionné par les nouveaux techniques, la metaverse, les ordinateurs quantiques, les intelligences artificielles. Ces passions m'apportent une perspective unique dans mon travail quotidien.
 
 🚀 Mon aventure en tant que développeur web autodidacte m'a enseigné que chaque ligne de code est une opportunité de création. Je suis prêt à apporter mon énergie, ma créativité et mon savoir-faire à un projet web qui repousse les limites.
 
@@ -15,7 +15,7 @@ Rejoignez-moi dans cette aventure continue de développement et d'innovation. En
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kerrylcyberkey) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_kerryl) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mY9KxzFu56) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_kerryl) 
 
 # 💻 Tech Stack:
 <div>
