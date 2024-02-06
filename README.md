@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="file:///C:/Users/sokkey/Downloads/light-black-and-white-architecture-fog-white-night-479523-pxhere.com.jpg" width="720" height="300"/>
+<!-- <img src="file:///C:/Users/sokkey/Downloads/light-black-and-white-architecture-fog-white-night-479523-pxhere.com.jpg" width="720" height="300"/>-->
 
 # 💫 About Me:
 🍯Salut je suis kerryl, Developpeur fullstack junior<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet et étre expert en c++ et javascript <br>
@@ -54,5 +54,4 @@ Rejoignez-moi dans cette aventure continue de développement et d'innovation. En
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KerrylSoda?country.x=FR&locale.x=fr_FR) <!--[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/user?u=76073894)--> 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
