@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://media0.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=ecf05e4700uhlsjujz6re6dfzipz2j5sjiny4gqeedq2s1yj&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://c.pxhere.com/photos/67/dc/fog_night_port_nightscape_noiretblanc_portlanouvelle-479523.jpg!d)" width="720" height="300"/>
+<img src="file:///C:/Users/sokkey/Downloads/light-black-and-white-architecture-fog-white-night-479523-pxhere.com.jpg" width="720" height="300"/>
 
 # 💫 About Me:
 🍯Salut je suis kerryl, Developpeur fullstack junior<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet et étre expert en c++ et javascript <br>
