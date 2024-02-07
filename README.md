@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="file:///C:/Users/sokkey/Downloads/light-black-and-white-architecture-fog-white-night-479523-pxhere.com.jpg" width="720" height="300"/>-->
+<!-- <img src="https://giphy.com/clips/netflix-cyberpunk-edgerunners-KwVOMfXLC1mtEAORN3"/>-->
 
 # 💫 About Me:
 🍯Salut je suis kerryl, Developpeur fullstack junior<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet et étre expert en c++ et javascript <br>
