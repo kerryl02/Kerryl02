@@ -3,9 +3,7 @@
 <img src="https://giphy.com/clips/netflix-cyberpunk-edgerunners-KwVOMfXLC1mtEAORN3"/>
 
 # 💫 About Me:
-🍯Salut je suis kerryl, Developpeur Ermite<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet et étre expert en c++<br>
-
-📞Actuellement en formation devops, je suis en quête d'opportunités pratiques pour approfondir mes compétences en développement de projets logiciel et web. Mon objectif est de mettre en pratique les connaissances acquises et d'explorer de nouvelles dimensions dans ces domaines captivants. Conscient des défis associés à cette démarche, surtout en tant que personne cherchant à se perfectionner dans ces secteurs spécifiques, ma détermination demeure intacte. Si vous avez des conseils, des recommandations ou des opportunités pratiques à partager, je serais ravi d'échanger avec vous. Je reste ouvert à toute discussion constructive et à une expérience d'apprentissage enrichissante.
+🍯Salut je suis kerryl, Developpeur Ermite<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet et étre expert en javascript<br>
 
 🌐En dehors du monde de la programmation, je suis passionné par les nouveaux techniques, la metaverse, les ordinateurs quantiques, les intelligences artificielles. Ces passions m'apportent une perspective unique dans mon travail quotidien.
 
