@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://giphy.com/clips/netflix-cyberpunk-edgerunners-KwVOMfXLC1mtEAORN3"/>
 
 # 💫 About Me:
 🍯Salut je suis kerryl, Developpeur Ermite<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet et étre expert en javascript<br>
