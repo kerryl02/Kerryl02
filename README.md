@@ -4,7 +4,7 @@
 # 💫 About Me:
 🍯Salut je suis kerryl, Developpeur Ermite<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet et étre expert en javascript<br>
 
-🌐En dehors du monde de la programmation, je suis passionné par les nouveaux techniques, la metaverse, les ordinateurs quantiques, les intelligences artificielles. Ces passions m'apportent une perspective unique dans mon travail quotidien.
+🌐En dehors du monde de la programmation, je suis passionné par les nouvelles technologies, la metaverse, les ordinateurs quantiques, les intelligences artificielles. Ces passions m'apportent une perspective unique dans mon travail quotidien.
 
 🚀 Mon aventure en tant que développeur web autodidacte m'a enseigné que chaque ligne de code est une opportunité de création. Je suis prêt à apporter mon énergie, ma créativité et mon savoir-faire à un projet web qui repousse les limites.
 
