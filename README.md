@@ -1,12 +1,3 @@
-<div align="center">
-
-
-# 💫 About Me:
-je suis kerryl, Developpeur Ermite<br>🔱je suis pationnée par le developpement, <br>📍Mon objectif c'est de crée un gros projet et étre expert en javascript<br>
-🌐En dehors du monde de la programmation, je suis passionné par les nouvelles technologies, la metaverse, les ordinateurs quantiques, les intelligences artificielles. Ces passions m'apportent une perspective unique dans mon travail quotidien.
-🚀 Mon aventure en tant que développeur web autodidacte m'a enseigné que chaque ligne de code est une opportunité de création. Je suis prêt à apporter mon énergie, ma créativité et mon savoir-faire à un projet web qui repousse les limites.
-Rejoignez-moi dans cette aventure continue de développement et d'innovation. Ensemble, nous pouvons coder un avenir brillant.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mY9KxzFu56) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_kerryl) 
@@ -21,10 +12,9 @@ Rejoignez-moi dans cette aventure continue de développement et d'innovation. En
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
   
 
-</div>
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Kerryl S.
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Kerryl (Developer/Creator)`**
 
 je suis kerryl, Developpeur Ermite🔱je suis pationnée par le developpement, Mon objectif c'est de crée un gros projet et étre expert en javascript
 🌐En dehors du monde de la programmation, je suis passionné par les nouvelles technologies, la metaverse, les ordinateurs quantiques, les intelligences artificielles. Ces passions m'apportent une perspective unique dans mon travail quotidien.
