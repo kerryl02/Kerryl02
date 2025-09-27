@@ -2,10 +2,14 @@
 
 **`Kerryl (Developer/Creator)`**
 
-je suis kerryl, Developpeur Ermite🔱je suis pationnée par le developpement, Mon objectif c'est de crée un gros projet et étre expert en javascript
-🌐En dehors du monde de la programmation, je suis passionné par les nouvelles technologies, la metaverse, les ordinateurs quantiques, les intelligences artificielles. Ces passions m'apportent une perspective unique dans mon travail quotidien.
-🚀 Mon aventure en tant que développeur web autodidacte m'a enseigné que chaque ligne de code est une opportunité de création. Je suis prêt à apporter mon énergie, ma créativité et mon savoir-faire à un projet web qui repousse les limites.
-Rejoignez-moi dans cette aventure continue de développement et d'innovation. Ensemble, nous pouvons coder un avenir brillant.
+I’m Kerryl, a Hermit Developer 🔱 passionate about development.
+My goal is to build a major project and become an expert in JavaScript.
+
+🌐 Outside the world of programming, I’m fascinated by new technologies, the metaverse, quantum computing, and artificial intelligence. These passions give me a unique perspective in my daily work.
+
+🚀 My journey as a self-taught web developer has taught me that every line of code is an opportunity to create. I’m ready to bring my energy, creativity, and expertise to a web project that pushes boundaries.
+
+Join me on this ongoing adventure of development and innovation. Together, we can code a brighter future.
 
    <p align="left">
       <a href="https://github.com/kerryl02?tab=followers">
