@@ -62,9 +62,9 @@ I bring **energy, creativity, and technical expertise** to projects that aim to 
 
 ### 📫 Let’s Connect
 
-- 🌐 Portfolio: [mon-site.com](https://mon-site.com)  
-- 💼 LinkedIn: [linkedin.com/in/kerryl](https://linkedin.com/in/kerryl)  
-- ✉️ Email: [kerryl@example.com](mailto:kerryl@example.com)  
+- 🌐 Portfolio: [kerryl02](https://mon-site.com)  
+- 💼 LinkedIn: [linkedin.com/in/kerryl02](https://linkedin.com/in/kerryl02)  
+- ✉️ Email: [sodakerryl@gmail.com](mailto:kerryl@example.com)
 
 ---
 
