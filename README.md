@@ -65,7 +65,7 @@ I bring **energy, creativity, and technical expertise** to projects that aim to 
 
 - 🌐 Portfolio: [kerryl02](https://portfolio-kappa-beryl-47.vercel.app/)  
 - 💼 LinkedIn: [linkedin.com/in/kerryl02](https://linkedin.com/in/kerryl02)  
-- ✉️ Email: [sodakerryl@gmail.com](mailto:kerryl@example.com)
+- ✉️ Email: [contact@hexwebdigital.com](mailto:contact@hexwebdigital.com)
 
 ---
 
