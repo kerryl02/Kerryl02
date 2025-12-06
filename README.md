@@ -56,7 +56,7 @@ I bring **energy, creativity, and technical expertise** to projects that aim to 
 🔗 *(Pin these repos on your profile for maximum impact!)*  
 
 - **[Portfolio Website](https://github.com/Kerryl02/portfolio)** → Personal portfolio with Next.js & Tailwind  
-- **[Mini SaaS SEO Tool](https://github.com/Kerryl02/mini-saas-seo)** → Local SEO tracker for SMEs  
+- **[Hexwebdigital](https://github.com/kerryl02/hexwebdigital.com)** → Local SEO tracker for SMEs  
 - **[E-Commerce-Project](https://github.com/kerryl02/E-Commerce-Project)** → Vite.js + Tailwind optimized shop  
 
 ---
